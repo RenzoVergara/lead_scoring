@@ -1,0 +1,1 @@
+Este proyecto busca encontrar probabilidad de conversión a diferentes leads tomando en cuenta sus interacciones y otras features relevantes para que las empresas puedan tener mayor control y priorizar a aquellos más calientes.
